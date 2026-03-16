@@ -173,37 +173,37 @@ nav.nav li {
 }
 
 .plant-grid1 {
-    background-image: url(../images/Nos_créations/1.png);
+    background-image: url(../images/Nos_créations/11.png);
     grid-column: 1/3;
     grid-row: 1/3;
 }
 
 .plant-grid2 {
-    background-image: url(../images/Nos_créations/2.png);
+    background-image: url(../images/Nos_créations/22.png);
     grid-column: 3/5;
 }
 
 .plant-grid3 {
-    background-image: url(../images/Nos_créations/3.png);
+    background-image: url(../images/Nos_créations/33.png);
     grid-column: 3/5;
 }
 
 
 .plant-grid4 {
-    background-image: url(../images/Nos_créations/4.png);
+    background-image: url(../images/Nos_créations/44.png);
     grid-column: 1;
     grid-row: 3/5;
 }
 
 .plant-grid5 {
-    background-image: url(../images/Nos_créations/5.png);
+    background-image: url(../images/Nos_créations/55.png);
     grid-column: 2/4;
     grid-row: 3/5;
 }
 
 
 .plant-grid6 {
-    background-image: url(../images/Nos_créations/6.png);
+    background-image: url(../images/Nos_créations/66.png);
     grid-column: 4;
     grid-row: 3/5;
 }
